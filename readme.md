@@ -47,7 +47,7 @@ A simple task manager application built with React.js for the frontend and Node.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/Avinash-1-10/task-manager
 ```
 
 2. Navigate to the client (frontend) directory:
